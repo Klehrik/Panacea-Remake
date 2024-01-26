@@ -9,7 +9,8 @@ A remake (sequel?) to [Panacea](https://klehrik.itch.io/panacea).
 I'm still really liking all the visual stuff I did here (Celeste being the main inspiration for this of course), but I ended up falling off the project because I wasn't sure where I wanted to take it.  
 I may revisit this in the future though.
 
-The fonts used are a slightly edited version of Theoretical by [somepx](https://somepx.itch.io/) (support their work [here](https://somepx.itch.io/humble-fonts-tiny)!), and Varnished by [Slime](https://pleeze.itch.io/) (which you can find [here](https://pleeze.itch.io/slimesfonts)!)
+The fonts used are a slightly edited version of Theoretical by [somepx](https://somepx.itch.io/) (support their work [here](https://somepx.itch.io/humble-fonts-tiny)!),  
+and Varnished by [Slime](https://pleeze.itch.io/) (which you can find [here](https://pleeze.itch.io/slimesfonts)!)  
 I also used the [Input](https://offalynne.github.io/Input/#/6.1/) library.
 
 ---
