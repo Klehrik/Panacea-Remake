@@ -22,5 +22,6 @@ C/J - Breathe fire
 R - Reset  
 F - Fullscreen  
 LMB - Teleport around (for testing)
+Space - Extend the head feathers (lol)
 
 - Controller works as well I think
