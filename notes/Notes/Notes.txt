@@ -1,0 +1,11 @@
+- Maybe just merge player logic and animation separations together??
+- Also separate jump and fall into two sprites with their own anims (non-looping)
+	- This allows smoother transition frames
+
+- Ok so apparently GMS does not have non-looping stuff so you will have to write your own animation handling script
+	- gl lol
+
+- par_ objects should only be used as labels and no actual code should be placed inside
+    - This would not be necessary if C# interfaces existed augh
+
+- instead of global.camera, maybe make general camera functions in a script, and then those functions call obj_Manager.camera??
