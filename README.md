@@ -21,7 +21,7 @@ X/K - Flap; hold in the air to glide
 C/J - Breathe fire  
 R - Reset  
 F - Fullscreen  
-LMB - Teleport around (for testing)
-Space - Extend the head feathers (lol)
+LMB - Teleport around (for testing)  
+Space - Extend the head feathers (lol)  
 
 - Controller works as well I think
