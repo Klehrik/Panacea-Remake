@@ -8,7 +8,8 @@ Originally created in **February 2023**.
 A remake (sequel?) to [Panacea](https://klehrik.itch.io/panacea).  
 I'm still really liking all the visual stuff I did here (Celeste being the main inspiration for this of course).
 
-The font used is a slightly edited version of Theoretical by [somepx](https://somepx.itch.io/) (support their work [here](https://somepx.itch.io/humble-fonts-tiny)!)
+The font used is a slightly edited version of Theoretical by [somepx](https://somepx.itch.io/) (support their work [here](https://somepx.itch.io/humble-fonts-tiny)!)  
+I also used the [Input](https://offalynne.github.io/Input/#/6.1/) library.
 
 ---
 
@@ -20,3 +21,5 @@ C/J - Breathe fire
 R - Reset  
 F - Fullscreen  
 LMB - Teleport around (for testing)
+
+- Controller works as well I think
